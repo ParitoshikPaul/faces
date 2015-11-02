@@ -1,0 +1,153 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*HOME PAGE START*/
+
+@media screen and (max-width: 1280px){
+	.container-fluid .header .col-sm-10.navigation .bottom-menu ul.menubar li a{
+		padding: 0 20px;
+	}
+	.container-fluid.heritage-item .tea-time .tea-hover{
+		max-width: 92%;
+	}
+	.banner-introducing .col-sm-8 h4{
+		font-size: 50px;
+	}
+
+}
+@media screen and (max-width: 1024px){
+	.container-fluid .header .col-sm-10.navigation .bottom-menu ul.menubar li a{
+		padding: 0 14px;
+	}
+	.container-fluid.heritage-item .tea-time.col-lg-4.col-md-4.col-sm-4.col-xs-4 img {
+		width: 100%;
+	}
+	.container-fluid.introducing-item .tea-time h2{
+		font-size:22px;
+	}
+	.container-fluid.introducing-item .tea-time h2 span{
+		font-size:18px;
+	}
+	.container-fluid.introducing-item .tea-time h6{
+		font-size:22px;
+	}
+	.banner-introducing .col-sm-8 h4{
+		font-size:38px;
+	}
+	.banner-introducing .col-sm-8 p{
+		font-size:30px;
+	}
+	.banner-introducing .col-sm-4 form input.submit{
+		padding: 10px 12px;
+	}
+	.footer .col-sm-6 ul.footer-menubar li a{
+		padding: 0 6px;
+	}
+	.container-fluid.heritage-item .tea-time .tea-hover h3{
+		font-size:20px;
+	}
+	.banner-item .col-sm-8 h4{
+		font-size: 45px;
+	}
+	.banner-item .col-sm-8 p{
+		font-size: 26px;
+	}
+	.container-fluid .header .col-sm-1{
+		padding: 38px 0;
+	}
+	.container-fluid.heritage-item > h2::before{
+		width: 32%;
+	}
+	.container-fluid.heritage-item > h2::after{
+		width: 32%;
+	}
+	.container-fluid.heritage-item .tea-time .tea-hover h3{
+		line-height: 25px;
+	}
+	.container-fluid.introducing-item > h2::before{
+		width: 32%;
+	}
+	.container-fluid.introducing-item > h2::after{
+		width: 32%;
+	}
+}
+@media screen and (max-width: 800px){
+	.container-fluid .header .col-sm-10.navigation .bottom-menu{
+		padding:0;
+	}
+	.container-fluid .header .col-sm-10.navigation .bottom-menu li.logo {
+		width: 26%;
+	}
+	.container-fluid .header .col-sm-10.navigation .bottom-menu ul.menubar li a {
+		padding: 0 10px;
+		font-size:10px;
+	}
+	.container-fluid .header .col-sm-1.search-icon a.btn{
+		padding:0
+	}
+	.container-fluid.home-div .heritage-div p{
+		font-size: 19px;
+		line-height: 30px;
+	}
+	.container-fluid.heritage-item > h2::before{
+		width: 28%;
+	}
+	.container-fluid.heritage-item > h2::after{
+		width: 28%;
+	}
+	.container-fluid.heritage-item .tea-time h2{
+		font-size: 26px;
+	}
+	.container-fluid.heritage-item .tea-time .tea-hover h3 {
+		font-size: 16px;
+	}
+	.container-fluid.heritage-item .tea-time .tea-hover p{
+		font-size: 15px;
+	}
+	.container-fluid.heritage-item .tea-time .tea-hover a{
+		font-size:10pt;
+	}
+	.container-fluid.heritage-item .tea-time .tea-hover p{
+		margin:0 0 20px;
+	}
+	.banner-item .col-sm-8 h4 {
+		font-size: 35px;
+	}
+	.banner-item .col-sm-8 p {
+		font-size: 18px;
+	}
+	.banner-item .col-sm-4 a{
+		font-size: 13px;
+	}
+	.container-fluid.introducing-item .tea-time h2 {
+		font-size: 18px;
+	}
+	.container-fluid.introducing-item .tea-time h2 span {
+		font-size: 15px;
+	}
+	.container-fluid.introducing-item .tea-time h6 {
+		font-size: 18px;
+	}
+	.banner-introducing .col-sm-8 h4 {
+		font-size: 28px;
+	}
+	.banner-introducing .col-sm-8 p {
+		font-size: 24px;
+	}
+	.footer .col-sm-6 ul.footer-menubar li a{
+		font-size: 12px;
+	}
+	.header .shoping-icon a.btn{
+		padding:0 10px;
+	}
+	.banner-introducing .col-sm-4 form input.email{
+		font-size: 8px;
+		height: 30px;
+		padding:10px 5px;
+	}
+	.banner-introducing .col-sm-4 form input.submit{
+		font-size: 8px;
+		height: 30px;
+	}
+}
+/*HOME PAGE END*/
