@@ -1,0 +1,24 @@
+div.ajax-progress {
+  background: rgba(0,0,0,0.8) !important;
+  height: 100% !important;
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+  width: 100% !important;
+  z-index: 9998 !important;
+}
+
+div.throbber {
+  background: url("http://indiareputation.com/production/faces/sites/all/modules/views_sexy_throbber/images/default.gif") no-repeat scroll 50% 50% !important;
+  background-color: rgb(0,0,0) !important;
+  border-radius: 16px !important;
+  height: 32px !important;
+  left: 50% !important;
+  margin-left: -16px !important;
+  margin-top: -16px !important;
+  padding: 10px !important;
+  position: fixed !important;
+  top: 50% !important;
+  width: 32px !important;
+  z-index: 9999 !important;
+}

@@ -1,0 +1,61 @@
+name = Submerge
+description = Submerge for Drupal 7.x by ThemeShark.com
+core = 7.x
+engine = phptemplate
+screenshot = screenshot.png
+base theme = bones
+
+stylesheets[all][]   = style.css
+
+scripts[] = js/scripts.js
+scripts[] = js/jquery.color.js
+scripts[] = js/jquery-glowing.js
+scripts[] = js/jquery.mobilemenu.min.js
+
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+regions[header]         = Header
+regions[user_menu]      = User Menu
+regions[main_menu]      = Main Menu
+regions[main_menu_second_level]       = Main Menu Second Level (via Menublock)
+regions[search_box]     = Search Box
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[sidebar_first]  = First sidebar
+regions[sidebar_second] = Second sidebar
+regions[slideshow]      = Slideshow
+regions[preface_1]      = Preface First
+regions[preface_2]      = Preface Second
+regions[preface_3]      = Preface Third
+regions[preface_4]      = Preface Fourth
+regions[content_top]    = Content Top
+regions[content]        = Content
+regions[content_bottom] = Content Bottom
+regions[postscript_1]   = Postscript First
+regions[postscript_2]   = Postscript Second
+regions[postscript_3]   = Postscript Third
+regions[postscript_4]   = Postscript Fourth
+regions[footer]         = Footer
+
+settings[style] = 1
+settings[sidebar_layout] = 'sidebars-split'
+settings[sidebar_first_width] = 2
+settings[sidebar_second_width] = 4
+settings[grid_size] = 12
+settings[preface_1_grid_width] = 6
+settings[preface_2_grid_width] = 6
+settings[preface_3_grid_width] = 0
+settings[preface_4_grid_width] = 0
+settings[postscript_1_grid_width] = 4
+settings[postscript_2_grid_width] = 4
+settings[postscript_3_grid_width] = 4
+settings[postscript_4_grid_width] = 0
+settings[facebook] = 'http://www.facebook.com'
+settings[twitter] = 'http://www.twitter.com'

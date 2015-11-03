@@ -1,0 +1,23 @@
+4-21-2015, 15:17:21: -------------------------------------------------------------
+4-21-2015, 15:17:21: ST Microelectronics Free Fall Protection Installer
+4-21-2015, 15:17:21: Version: 2.00.11.22
+4-21-2015, 15:17:21: Mode: Install
+4-21-2015, 15:17:21: Command Line: 
+4-21-2015, 15:17:21: Default Install ...
+4-21-2015, 15:17:21: No pending reboot so continuing with installation ...
+4-21-2015, 15:17:29: Installing accelerometer drivers ...
+4-21-2015, 15:17:29: Entering InstallDrivers
+4-21-2015, 15:17:30: SMO8800 device detected, installing driver...
+4-21-2015, 15:18:14: Driver install completed
+4-21-2015, 15:18:14: Exiting InstallDrivers
+4-21-2015, 15:18:17: Done
+4-21-2015, 15:18:17: Added driver 1.0.0.15 to registry
+4-21-2015, 15:18:17: Installing Free Fall Protection Application ...
+4-21-2015, 15:18:17: Done
+4-21-2015, 15:18:17: Added ff_protection 2.0.0.3 to registry
+4-21-2015, 15:18:17: Adding OEM registry entries ...
+4-21-2015, 15:18:17: Done
+4-21-2015, 15:18:17: Applying Registry patch ...
+4-21-2015, 15:18:17: Done
+4-21-2015, 15:18:17: OEM inventory data written to the registry
+4-21-2015, 15:18:21: ReturnCode: 3010

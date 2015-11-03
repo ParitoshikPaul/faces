@@ -1,0 +1,430 @@
+S.No,Store Code,Outlet Name,City,States
+1,FE145,Style Corner,Agartala,Tripura
+2,FE162,Shivam -1,Agartala,Tripura
+3,FE169,New Bina ,Agartala,Tripura
+4,FN104,Gargi - Gandhinagar,Ahmedabad,Gujrat
+5,FN200,Krishna ,Ahmedabad,Gujrat
+6,FN225,Smruti Selection ,Ahmedabad,Gujrat
+7,FN226,Mahalaxmi ,Ahmedabad,Gujrat
+8,FN266,Lalit Beauty Collection,Ahmedabad,Gujrat
+9,FN288,Lifestyle - Ahmedabad,Ahmedabad,Gujrat
+10,FN290,Rajani Fashion - Ahmedabad,Ahmedabad,Gujrat
+11,FN313,Mayur Beauty- Ahmedabad,Ahmedabad,Gujrat
+12,FW 133,Shoppers Stop - Panchvati,Ahmedabad,Gujrat
+13,FW 148,A TO Z,Ahmedabad,Gujrat
+14,FW 149,Manhar C/O Swami Beauty ,Ahmedabad,Gujrat
+15,FW 63,Mahavir Cosmetics ,Ahmednagar,Maharashtra
+16,FC 76,Big Bazaar,Allahabad,Uttar Pradesh
+17,FN316,Chaman Store,Ambala,Haryana
+18,FW 84,Kesar Creation ,Amravati,Maharashtra
+19,FN133,Nari ,Amritsar,Punjab
+20,FN273,Lifestyle - Trillium Mall,Amritsar,Punjab
+21,FE183,Big Bazaar - Galaxy Mall,Asansol ,West Bengal
+22,FE226,Ms Merit Queen ,Asansol ,West Bengal
+23,FW 75,Nawal Beauty ,Aurangabad,Maharashtra
+24,FW 76,Nawal Cidco ,Aurangabad,Maharashtra
+25,FW 78,Durga Emporium ,Aurangabad,Maharashtra
+26,FW 124,Glamour,Aurangabad,Maharashtra
+27,FS50,Health & Glow - Jai Nagar,Bangalore,Karnataka
+28,FS74,Shringar,Bangalore,Karnataka
+29,FS95,Wahid Collection,Bangalore,Karnataka
+30,FS111,Health & Glow - Bel Road,Bangalore,Karnataka
+31,FS126,Kanika Sales,Bangalore,Karnataka
+32,FS127,Shtri Sales,Bangalore,Karnataka
+33,FS170,Rajguru ,Bangalore,Karnataka
+34,FS184,Kumar Sales ,Bangalore,Karnataka
+35,FS190,Monisha ,Bangalore,Karnataka
+36,FS211,Health & Glow - Commercial Street,Bangalore,Karnataka
+37,FS213,Lifestyle - Oasis,Bangalore,Karnataka
+38,FS214,Lifestyle - Adarsh,Bangalore,Karnataka
+39,FS215,Lifestyle - Gopalan,Bangalore,Karnataka
+40,FS217,Shoppers Stop - BG Road,Bangalore,Karnataka
+41,FC 56,V.P.Beauty Zone ,Bareily,Uttar Pradesh
+42,FN271,The Shoppe-Baroda,Baroda,Gujrat
+43,FN272,Shoppers Stop - Baroda,Baroda,Gujrat
+44,FN285,She-Baroda,Baroda,Gujrat
+45,FN252,Friends Company ,Bhatinda,Punjab
+46,FN234,Gulati ,Bhogpur,Punjab
+47,FC 32,Silver Cosmetic (New Era),Bhopal,Madhya Pradesh
+48,FC 82,Meeras 1,Bhopal,Madhya Pradesh
+49,FC 90,Meeras 2,Bhopal,Madhya Pradesh
+50,FC 99,Lakme Beauty,Bhopal,Madhya Pradesh
+51,FE175,Big Bazaar - Kharvel Nagar,Bhubaneshwar,Orissa
+52,FN93,Catwalk ,Chandigarh,Chandigarh
+53,FN94,Chandigarh General Store,Chandigarh,Chandigarh
+54,FN103,Bittu Fashion ,Chandigarh,Chandigarh
+55,FN113,S.R.Enterprises ,Chandigarh,Chandigarh
+56,FN145,Fancy Churi ,Chandigarh,Chandigarh
+57,FN168,Onkar ,Chandigarh,Chandigarh
+58,FN169,Gyan Chand ,Chandigarh,Chandigarh
+59,FN170,Sethi Cosmetics ,Chandigarh,Chandigarh
+60,FN201,Bittu Bangle,Chandigarh,Chandigarh
+61,FN222,Kohinoor ,Chandigarh,Chandigarh
+62,FN262,Trend & Tradition,Chandigarh,Chandigarh
+63,FN185,Hari Collection,Chandigarh,Chandigarh
+64,FN295,Lifestyle - Elante Mall,Chandigarh,Chandigarh
+65,FN299,Parkash,Chandigarh,Chandigarh
+66,FS18,Monica ,Chennai ,Tamilnadu
+67,FS20,Saravana Store ,Chennai ,Tamilnadu
+68,FS23,Pothys,Chennai ,Tamilnadu
+69,FS45,Health & Glow - Adyar,Chennai ,Tamilnadu
+70,FS55,Health & Glow - Kilpauk,Chennai ,Tamilnadu
+71,FS89,Health & Glow - Ampa Mall,Chennai ,Tamilnadu
+72,FS91,Health & Glow - Besant Nagar,Chennai ,Tamilnadu
+73,FS103,Angels - Annanagar,Chennai ,Tamilnadu
+74,FS116,Style One,Chennai ,Tamilnadu
+75,FS134,Pothys Boutique,Chennai ,Tamilnadu
+76,FS189,Health & Glow - Vijaya Mall,Chennai ,Tamilnadu
+77,FS191,Kajal Cosmetics ,Chennai ,Tamilnadu
+78,FS193,Pavan Beauty Palace,Chennai ,Tamilnadu
+79,FS200,Angels Beauty - Egmore,Chennai ,Tamilnadu
+80,FS207,Health & Glow - Shanti Nagar,Chennai ,Tamilnadu
+81,FS209,Lifestyle - City Centre,Chennai ,Tamilnadu
+82,FS210,Shoppers Stop - Velachery,Chennai ,Tamilnadu
+83,FS216,Health & Glow - Pondy Bazar,Chennai ,Tamilnadu
+84,FS105,Angels Velechary,Chennai ,Tamilnadu
+85,FS233,Super Sarvana - Crompet,Chennai ,Tamilnadu
+86,FS238,Treasure Hunt,Chennai ,Tamilnadu
+87,FS241,Style One - Pondy bazar,Chennai ,Tamilnadu
+88,FS245,Saravana Store - B,Chennai ,Tamilnadu
+89,FS87,Kallarackal,Cochin,Kerala
+90,FS90,Goodwill,Cochin,Kerala
+91,FS137,Fair Beauty,Cochin,Kerala
+92,FS158,Alphonsa ,Cochin,Kerala
+93,FS180,Lulu Hyper Market ,Cochin,Kerala
+94,FS239,Mirror,Cochin,Kerala
+95,FS240,Jajis Cosmetics,Cochin,Kerala
+96,FS24,Good Luck Palace,Coimbatore,Tamilnadu
+97,FS25,Nilgiris SNV ,Coimbatore,Tamilnadu
+98,FS27,Beauty Selection ,Coimbatore,Tamilnadu
+99,FS101,Kantilal,Coimbatore,Tamilnadu
+100,FS102,Pothys,Coimbatore,Tamilnadu
+101,FS234,Kovai Beauty,Coimbatore,Tamilnadu
+102,FS243,Good Luck Palace -II,Coimbatore,Tamilnadu
+103,FE22,Singar ,Darjeeling,West Bengal
+104,FE106,Atmaram ,Darjeeling,West Bengal
+105,FE231,Standard Plating Coomapny,Darjeeling,West Bengal
+106,FE240,K C Jani,Darjeeling,West Bengal
+107,FN235,Kale Di Hatti ,Dasuha,Punjab
+108,FC 75,Lifestyle - Pacific Mall,Dehradun,Uttarakhand
+109,FN311,Kumar Sparkles,Dehradun,Uttarakhand
+110,FN314,Fresh n Easy,Dehradun,Uttarakhand
+111,FN304,In & Out,Dharamshala,Himachal Pradesh
+112,FE46,Jessica,Dimapur,Nagaland
+113,FE232,Pick Me,Duliajan,Assam
+114,FE188,Big Bazaar - City Center,Durgapur,West Bengal
+115,FN58,Tip Top ,Faridabad,Haryana
+116,FN96,Shagun ,Gandhidham,Gujrat
+117,FE246,Jesal Cosmetic,Gangtok,Sikkim
+118,FE235,Kiran & Co.,Gangtok,Sikkim
+119,FC 33,Big Bazaar - EDM Mall,Ghaziabad,Uttar Pradesh
+120,FC 37,Shakti Stores ,Ghaziabad,Uttar Pradesh
+121,FC 38,Jagdish Sons ,Ghaziabad,Uttar Pradesh
+122,FC 44,Woman's World ,Ghaziabad,Uttar Pradesh
+123,FC 89,Shoppers Stop - Gaur Central,Ghaziabad,Uttar Pradesh
+124,FN315,Shoppers Stop - Gaur Central,Ghaziabad,Uttar Pradesh
+125,FC 84,Red Apple,Greater Noida,Uttar Pradesh
+126,FN11,Shubham ,Gurgaon,Haryana
+127,FN29,Tarun Store,Gurgaon,Haryana
+128,FN108,Needs Hyper,Gurgaon,Haryana
+129,FN307,Big Bazaar - Ambience Mall,Gurgaon,Haryana
+130,FN279,Singar Vatika,Gurgaon,Haryana
+131,FN286,Lifestyle - Metropolis Mall,Gurgaon,Haryana
+132,FE120,Payal ,Guwahati,Assam
+133,FE121,Shrimaan Shrimati ,Guwahati,Assam
+134,FE147,Nath Bros,Guwahati,Assam
+135,FE152,Big Bazaar - City Square,Guwahati,Assam
+136,FE193,Hub,Guwahati,Assam
+137,FE194,Beauty Zone,Guwahati,Assam
+138,FE230,Shoum Emporium,Guwahati,Assam
+139,FE247,Urvashi Fashion Lifestyle,Guwahati,Assam
+140,FE249,Daffodile,Guwahati,Assam
+141,FE250,Upahar,Guwahati,Assam
+142,FE253,Ritwika,Guwahati,Assam
+143,FC 98,Mon Medice Accessories,Gwalior,Madhya Pradesh
+144,FE78,Ganesh Store ,Habra,West Bengal
+145,FS117,Krishna Bangles,Hassan,Karnataka
+146,FN137,Bombay General Store ,Hoshiarpur,Punjab
+147,FN284,Sanjeev General Store,Hoshiarpur,Punjab
+148,FS173,U Mall ,Hubli,Karnataka
+149,FS02,Kathiwar Store (Abids),Hyderabad,Andhra Pradesh
+150,FS03,Kathiwar Store,Hyderabad,Andhra Pradesh
+151,FS04,Big Bazaar - Maheshwari Mall,Hyderabad,Andhra Pradesh
+152,FS05,South India Shopping Mall,Hyderabad,Andhra Pradesh
+153,FS97,G.S.Wasan,Hyderabad,Andhra Pradesh
+154,FS130,New South India Mall ,Hyderabad,Andhra Pradesh
+155,FS141,Big Bazaar - Ameerpet,Hyderabad,Andhra Pradesh
+156,FS192,Sona Ladies,Hyderabad,Andhra Pradesh
+157,FS202,Lifestyle - Begumpet,Hyderabad,Andhra Pradesh
+158,FS203,Maheswari Jewelry Abids,Hyderabad,Andhra Pradesh
+159,FS205,Shoppers Stop - (Manjeera Mall KPHB),Hyderabad,Andhra Pradesh
+160,FS232,Hyderabad Beauty ,Hyderabad,Andhra Pradesh
+161,FS235,South India Shopping Mall- Ameerpet,Hyderabad,Andhra Pradesh
+162,FE248,Beauty corner,Imphal,Manipur
+163,FE254,Labanya,Imphal,Manipur
+164,FC 18,Beauty Center ,Indore,Madhya Pradesh
+165,FC 29,Gajab Hi Gajab ,Indore,Madhya Pradesh
+166,FC 30,Dabur New U ,Indore,Madhya Pradesh
+167,FC 88,Selection,Indore,Madhya Pradesh
+168,FC 95,Big Life,Indore,Madhya Pradesh
+169,FC 97,Satguru,Indore,Madhya Pradesh
+170,FN86,National Handloom ,Jaipur,Rajasthan
+171,FN306,Maheera,Jaipur,Rajasthan
+172,FN199,Prince ,Jaipur,Rajasthan
+173,FN207,Dream Girl ,Jaipur,Rajasthan
+174,FN242,Addict ,Jaipur,Rajasthan
+175,FN280,Lifestyle - MGF Metropolitan Mall,Jaipur,Rajasthan
+176,FN293,Manish Beauty,Jaipur,Rajasthan
+177,FN312,Vishal Cosmetics,Jaipur,Rajasthan
+178,FE96,Shingal Emporium ,Jorthang,Sikkim
+179,FN173,Kartar Cosmetics ,Jullundhar,Punjab
+180,FN178,Seghal Cometics ,Jullundhar,Punjab
+181,FN198,Gulati General Store,Jullundhar,Punjab
+182,FN250,Kapoor Di Hatti ,Jullundhar,Punjab
+183,FN276,Ram Garments,Jullundhar,Punjab
+184,FE238,Calcutta Stores,Kalimpong,West Bengal
+185,FS73,Paris Gallary ,Kannur,Kerala
+186,FC 63,Big Bazaar - Rawatpur,Kanpur,Uttar Pradesh
+187,FC 64,Big Bazaar - Zsquare Mall,Kanpur,Uttar Pradesh
+188,FC 87,Lifestyle - Zsquare Mall,Kanpur,Uttar Pradesh
+189,FN106,Shiv General Store ,Kapoorthala,Punjab
+190,FW 103,B4U ,Kolhapur,Maharashtra
+191,FE221,Lifestyle - Quest Mall,Kolkata,West Bengal
+192,FE229,Shoppers Stop - City Center 2,Kolkata,West Bengal
+193,FE44,Big Bazaar - LIC,Kolkata,West Bengal
+194,FE71,Big Bazaar - Sealdah,Kolkata,West Bengal
+195,FE73,Big Bazaar - Saltlake,Kolkata,West Bengal
+196,FE233,Shoppers Stop - City Center,Kolkata,West Bengal
+197,FE234,Shoppers Stop - South City Mall,Kolkata,West Bengal
+198,FE06,Durjoy Store ,Kolkata,West Bengal
+199,FE39,Abhilasha ,Kolkata,West Bengal
+200,FE28,Suvidha Collection ,Kolkata,West Bengal
+201,FE102,Rakomari ,Kolkata,West Bengal
+202,FE103,S.Lal ,Kolkata,West Bengal
+203,FE105,Dutta ,Kolkata,West Bengal
+204,FE171,Gift House ,Kolkata,West Bengal
+205,FE215,Disha Cosmetics,Kolkata,West Bengal
+206,FE244,Nabarupa,Kolkata,West Bengal
+207,FE245,Big Bazaar - Barasat,Kolkata,West Bengal
+208,FE251,Shoppers Stop - Forum Mall,Kolkata,West Bengal
+209,FE243,Almas Cosmetics,Kolkata,West Bengal
+210,FE62,Mollee ,Kolkata,West Bengal
+211,FE201,Asha Varity,Kolkata,West Bengal
+212,FE222,Mondol Cosmetics,Kolkata,West Bengal
+213,FE10,KK Enterprises,Kolkata,West Bengal
+214,FE75,City Collection ,Kolkata,West Bengal
+215,FE104,Srirupa ,Kolkata,West Bengal
+216,FE166,Adi City,Kolkata,West Bengal
+217,FE03,Modern Museum - 1,Kolkata,West Bengal
+218,FE04,Padma Varity Store ,Kolkata,West Bengal
+219,FE14,Shubham ,Kolkata,West Bengal
+220,FE84,Bapi Store ,Kolkata,West Bengal
+221,FE134,C 3,Kolkata,West Bengal
+222,FE153,Neogi Brothers,Kolkata,West Bengal
+223,FE159,New Roop Mahal,Kolkata,West Bengal
+224,FE168,Laxmi Narayan,Kolkata,West Bengal
+225,FE192,Lake Corner,Kolkata,West Bengal
+226,FE204,Orchid,Kolkata,West Bengal
+227,FE236,Oshi Variety Stores,Kolkata,West Bengal
+228,FE242,Valentine,Kolkata,West Bengal
+229,FE11,Modern Museum - 2,Kolkata,West Bengal
+230,FS71,Brothers Mall,Kollam,Kerala
+231,FN78,Rai Beauty ,Kota,Rajasthan
+232,FS242,Kallarakal Ladies Collections,Kottayam,Kerala
+233,FS175,Kurunji Shopping ,Kumbakonam,Tamilnadu
+234,FW 137,Memsab,Latur,Maharashtra
+235,FC 53,Sub Collection ,Lucknow,Uttar Pradesh
+236,FC 55,Bindals ,Lucknow,Uttar Pradesh
+237,FC 57,Dolsis ,Lucknow,Uttar Pradesh
+238,FC 59,Big Bazaar - Sahara Gunj Mall,Lucknow,Uttar Pradesh
+239,FC 60,Big Bazaar - Lekhraj Mall,Lucknow,Uttar Pradesh
+240,FC 61,Big Bazaar - Phoenix Mall,Lucknow,Uttar Pradesh
+241,FN301,Shoppers Stop - E City Mall,Lucknow,Uttar Pradesh
+242,FN88,Cosmos ,Ludhiana,Punjab
+243,FN101,Pink City,Ludhiana,Punjab
+244,FN231-A,Celebration,Ludhiana,Punjab
+245,FN244,P.K. Corner ,Ludhiana,Punjab
+246,FN277,Aggarwal General Store,Ludhiana,Punjab
+247,FS37,Pothys,Madurai ,Tamilnadu
+248,FS218,Gupta Stores,Madurai,Tamilnadu
+249,FS186,Sthri ,Malashweram,Karnataka
+250,FS151,R.K.Novelties ,Mangalore,Karnataka
+251,FS152,Romantic Sales ,Mangalore,Karnataka
+252,FS157,Romantic Empire Mall ,Mangalore,Karnataka
+253,FS212,Lifestyle,Mangalore,Karnataka
+254,FC 43,Bindals ,Meerut,Uttar Pradesh
+255,FN302,Jolly Shopping Center,Meerut,Uttar Pradesh
+256,FN274,Beauty World-Mehsana,Mehsana,Gujrat
+257,FN296,Lifestyle - North Country Mall,Mohali,Punjab
+258,FN317,Ladies Corner,Moradabad,Uttar Pradesh
+259,FN263,Satish General Store,Mukerian,Punjab
+260,FW06,Beauty & More ,Mumbai,Maharashtra
+261,FW08,Prince Medicos Hill Road,Mumbai,Maharashtra
+262,FW 31,Twinkle (Kemps Corner ) ,Mumbai,Maharashtra
+263,FW 39,1st Beauty,Mumbai,Maharashtra
+264,FW 42,Khar New Beauty Center,Mumbai,Maharashtra
+265,FW 43,Beauty Center - Crawford Market,Mumbai,Maharashtra
+266,FW 44,The Beauty Shop Kandivali,Mumbai,Maharashtra
+267,FW 54,Green Beauty,Mumbai,Maharashtra
+268,FW 56,Alfa,Mumbai,Maharashtra
+269,FW 74,Health & Glow,Mumbai,Maharashtra
+270,FW 77,Beauty Place Jogeshwari,Mumbai,Maharashtra
+271,FW 88,Betty  Lokandwala,Mumbai,Maharashtra
+272,FW 89,Jolly Vishal  Chembur,Mumbai,Maharashtra
+273,FW 92,Beautyful,Mumbai,Maharashtra
+274,FW 93,Betty - 2,Mumbai,Maharashtra
+275,FW 95,Health & Glow  Mulund,Mumbai,Maharashtra
+276,FW 98,Shoppers Stop - Kalyan,Mumbai,Maharashtra
+277,FW 102,Beauty Palace Craford,Mumbai,Maharashtra
+278,FW 105,Beauty Solutations,Mumbai,Maharashtra
+279,FW 109,LifeStyle - Inorbt Mall,Mumbai,Maharashtra
+280,FW 110,LifeStyle - Lower Parel,Mumbai,Maharashtra
+281,FW 111,LifeStyle - Goregaon,Mumbai,Maharashtra
+282,FW 115,LifeStyle - R.City,Mumbai,Maharashtra
+283,FW 121,Shoppers Stop - R.City,Mumbai,Maharashtra
+284,FW 122,New Beauty Fair,Mumbai,Maharashtra
+285,FW 127,Shoppers Stop - Chembur,Mumbai,Maharashtra
+286,FW 128,Shoppers Stop - Inorbit mall,Mumbai,Maharashtra
+287,FW 129,Saheli - Andheri,Mumbai,Maharashtra
+288,FW 131,Beauty Corner - Thane,Mumbai,Maharashtra
+289,FW 132,The Beautiful - Santacruz,Mumbai,Maharashtra
+290,FW 134,1st Beauty Fair,Mumbai,Maharashtra
+291,FW 135,Iifa - Matunga,Mumbai,Maharashtra
+292,FW 139,Shoppers Stop - Vashi,Mumbai,Maharashtra
+293,FW 142,Vanity,Mumbai,Maharashtra
+294,FW 150,Beauty World,Mumbai,Maharashtra
+295,FW 151,Fashionation,Mumbai,Maharashtra
+296,FW 152,Beautiful,Mumbai,Maharashtra
+297,FS107,A To Z ,Mysore,Karnataka
+298,FS108,Mohan Bhandar ,Mysore,Karnataka
+299,FS115,Loyal World,Mysore,Karnataka
+300,FS136,Raj Ram,Mysore,Karnataka
+301,FS148,Big Bazaar,Mysore,Karnataka
+302,FS237,Loyal World - Mall of Mysore,Mysore,Karnataka
+303,FW 32,Mayur Kalam ,Nagpur,Maharashtra
+304,FW 33,Durga Alankar ,Nagpur,Maharashtra
+305,FW 36,Poonam Bazar ,Nagpur,Maharashtra
+306,FW 48,Babulal Beauty Center ,Nagpur,Maharashtra
+307,FW 49,Huma Bangles ,Nagpur,Maharashtra
+308,FW 85,Roopam Collection ,Nagpur,Maharashtra
+309,FW 112,Aqsa Fshionista (Brand Facctory 2),Nagpur,Maharashtra
+310,FW 125,Kul-Laxmi Gen Store,Nagpur,Maharashtra
+311,FW 136,Dreams Enterprises,Nagpur,Maharashtra
+312,FW 143,Janvi,Nanded,Maharashtra
+313,FW 62,Makeup ,Nashik,Maharashtra
+314,FW 82,Miss Cosmetics ,Nashik,Maharashtra
+315,FW 94,Beauty Zone ,Nashik,Maharashtra
+316,FW 101,Swamini Beauty Mall ,Nashik,Maharashtra
+317,FW 118,Bella Cosmetics,Nashik,Maharashtra
+318,FW 141,Aarti Distributor,Nashik,Maharashtra
+319,FN188,Pyare Lal ,Navashahar,Punjab
+320,FN24,Goel Store,New Delhi,Delhi
+321,FN55,Alpana Tracer ,New Delhi,Delhi
+322,FN83,Common Wealth ,New Delhi,Delhi
+323,FN95,Accessories 4 U ,New Delhi,Delhi
+324,FN119,Rex General Store ,New Delhi,Delhi
+325,FN182,Nirankari ,New Delhi,Delhi
+326,FN265,Bombay General Store,New Delhi,Delhi
+327,FN294,Lifestyle - (Ambience Mall) Vasant Kunj,New Delhi,Delhi
+328,FN298,Radhey Shyam,New Delhi,Delhi
+329,FN25,Artificial Planet,New Delhi,Delhi
+330,FN77,Mahalaxmi ,New Delhi,Delhi
+331,FN89,Shiv Store ,New Delhi,Delhi
+332,FN38,Beauty World,New Delhi,Delhi
+333,FN114,Makeup The World ,New Delhi,Delhi
+334,FN126,Bathra Cosmetics ,New Delhi,Delhi
+335,FN161,Chandni Fancy ,New Delhi,Delhi
+336,FN174,Sachdeva ,New Delhi,Delhi
+337,FN199-A,SNG Cosmetics,New Delhi,Delhi
+338,FN224,Queen ,New Delhi,Delhi
+339,FN264,Jingle Bell,New Delhi,Delhi
+340,FN267,Ada Collection,New Delhi,Delhi
+341,FN309,New Vishal General Store,New Delhi,Delhi
+342,FN135,Shivlal ,New Delhi,Delhi
+343,FN33,Kalpana Tracer,New Delhi,Delhi
+344,FN45,Manish Agencies,New Delhi,Delhi
+345,FN53,Parvesh ,New Delhi,Delhi
+346,FN85,Santosh ,New Delhi,Delhi
+347,FN91,Vado ,New Delhi,Delhi
+348,FN123,Looks ,New Delhi,Delhi
+349,FN202,Mescos,New Delhi,Delhi
+350,FN261,U & Me ,New Delhi,Delhi
+351,FC 39,Pranvi Stores ,Noida,Uttar Pradesh
+352,FC 73,Lifestyle - GIP Mall,Noida,Uttar Pradesh
+353,FC 35,Big Bazaar - GIP Mall ,Noida,Uttar Pradesh
+354,FN303,Shoppers Stop - GIP Mall,Noida,Uttar Pradesh
+355,FN148,Sharma Traders ,Panchkula,Haryana
+356,FN177,Darshan Lal & Sons ,Panchkula,Haryana
+357,FN187,Kumar ,Panchkula,Haryana
+358,FN269,Anu Gift,Panchkula,Haryana
+359,FC 70,Big Bazaar 1,Patna,Bihar
+360,FN310,Beauty Boutique,Phagwara,Punjab
+361,FS81,Casablanca,Pondicherry,Tamilnadu
+362,FS188,Pothys,Pondicherry,Tamilnadu
+363,FW 41,Sunshine  ,Pune,Maharashtra
+364,FW 59,Beauty Center ,Pune,Maharashtra
+365,FW 68,New Gems Corner ,Pune,Maharashtra
+366,FW 99,Beauty Collection ,Pune,Maharashtra
+367,FW 117,Vaidehi Cosmetics,Pune,Maharashtra
+368,FW 120,Big Bazaar - (PCMC),Pune,Maharashtra
+369,FW 123,Big Bazaar - (Kothrud),Pune,Maharashtra
+370,FW 138,Shoppers Stop  - Seasons Mall,Pune,Maharashtra
+371,FW 140,Krusha Cosmetics,Pune,Maharashtra
+372,FC 77,Shoppers Stop,Raipur,Chattisgarh
+373,FC 102,Style Shop,Raipur,Chattisgarh
+374,FN74,Option ,Rajkot,Gujrat
+375,FN136,Shweta Novelty  Porbander,Rajkot,Gujrat
+376,FN146,Sakhi ,Rajkot,Gujrat
+377,FN160,Laleez ,Rajkot,Gujrat
+378,FN243,Ladyzeel ,Rajkot,Gujrat
+379,FN66,G Madam ,Rajkot,Gujrat
+380,FC 66,Big Shop ,Ranchi,Jharkhand
+381,FC 67,Betterhome ,Ranchi,Jharkhand
+382,FC 71,Big Bazaar - JC Tower,Ranchi,Jharkhand
+383,FE224,Dipu Cosmetic ,Shillong,Meghalaya
+384,FN278,Gaindamal,Shimla,Himachal Pradesh
+385,FE27,Bhagwati Stores ,Silchar,Assam
+386,FE140,Big Bazaar,Silchar,Assam
+387,FE177,Sarala Bhandar,Silchar,Assam
+388,FE189,Promila Fancy,Silchar,Assam
+389,FE252,Ramkrishna,Silchar,Assam
+390,FE239,Sagarika ,Siliguri,West Bengal
+391,FE100,Anurag ,Siliguri,West Bengal
+392,FE126,Mangal Deep ,Siliguri,West Bengal
+393,FE206,Sree Benketshwar,Siliguri,West Bengal
+394,FN305,Adarash gift gallery ,Solan,Himachal Pradesh
+395,FN51,Shri Ram ,Sonepat,Haryana
+396,FN140,C4 Mart ,Srinagar,Jammu and Kashmir
+397,FN153,Asif Enterprises ,Srinagar,Jammu and Kashmir
+398,FN180,Punnu Bazar ,Srinagar,Jammu and Kashmir
+399,FN190,Stop N Shop ,Srinagar,Jammu and Kashmir
+400,FN191,Dubai Mart ,Srinagar,Jammu and Kashmir
+401,FG-1,Rushil Enterprises ,Surat,Gujrat
+402,FG-3,Shreeji ,Surat,Gujrat
+403,FN144,Star Bazar 2,Surat,Gujrat
+404,FN154,Beauty Concept ,Surat,Gujrat
+405,FN181,NR Beauty ,Surat,Gujrat
+406,FW 144,She the cusmetics,Surat,Gujrat
+407,FW 145,Lalani cosmetics,Surat,Gujrat
+408,FW 146,Zaveri watch & opticals,Surat,Gujrat
+409,FW 147,Rachana cosmetics c/o patel cosmetics,Surat,Gujrat
+410,FS31,Oriental ,Tanjore,Tamilnadu
+411,FE37,Tinsukia Traders ,Tinsukia,Assam
+412,FE167,Shyamshingar,Tinsukia,Assam
+413,FE179,Shankar Bhandar,Tinsukia,Assam
+414,FS33,Pothys,Tirunelveli,Tamilnadu
+415,FS85,RMK ,Tirunelveli,Tamilnadu
+416,FS94,TRC Goodwill,Trichur,Kerala
+417,FS221,Jolly Silks,Trichur,Kerala
+418,FS208,Femina,Trichy,Tamilnadu
+419,FS36,Pothys,Trivandrum,Kerala
+420,FS96,Style Plus,Trivandrum,Kerala
+421,FS161,Fun City,Trivandrum,Kerala
+422,FS219,Ceejay,Trivandrum,Kerala
+423,FS244,QRS Nilgiris,Trivandrum,Kerala
+424,FS113,Planet Max ,Tumkur,Karnataka
+425,FS159,Naina Fancy ,Udupi,Karnataka
+426,FS43,Canara Store,Vizag,Andhra Pradesh
+427,FS135,Fashion Express ,Vizag,Andhra Pradesh
+428,FS185,CMR ,Vizag,Andhra Pradesh
+429,FS236,CMR 2 - MVR Mall,Vizag,Andhra Pradesh

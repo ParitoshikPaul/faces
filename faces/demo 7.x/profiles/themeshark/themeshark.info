@@ -1,0 +1,4 @@
+name = Submerge Theme (Drupal 7.15)
+description = Installs a replica of the demo found on <a href="http://themeshark.com/preview">ThemeShark.com</a>
+version = VERSION
+core = 7.x
